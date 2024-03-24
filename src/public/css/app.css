@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+h1 {
+  color: #f30d0d;
+  background-attachment: fixed;
+  font-weight: bold;
+  align-self: start;
+  font-size: 20px; }
